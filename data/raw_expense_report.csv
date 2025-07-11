@@ -1,0 +1,101 @@
+Date,Vendor,Category,Amount,Payment
+02/14/2023,Foo-Bar Inc,Office Supplies,"$4,869.00",Cash
+03/25/2023,Foo-Bar Inc,Meals,"$3,478.00",Bank Transfer
+03/07/2023,"Foo Bar, Inc.",Office Supplies,"$2,232.00",Credit Card
+03/23/2023,Foo-Bar Inc,Office Supplies,"$2,173.00",Credit Card
+03/11/2023,"Foo Bar, Inc.",Travel,"$2,506.00",Bank Transfer
+03/30/2023,ABC Company,Meals,$669.00,Bank Transfer
+02/09/2023,ABC Co.,Meals,"$2,755.00",Credit Card
+02/01/2023,abc co,Meals,"$2,733.00",Bank Transfer
+03/17/2023,abc co,Meals,$812.00,Credit Card
+01/01/2023,X.Y.Z. Ltd,Office Supplies,"$3,632.00",Credit Card
+01/18/2023,X.Y.Z. Ltd,Office Supplies,"$4,994.00",Cash
+03/07/2023,ABC Company,,"$3,952.00",Bank Transfer
+03/24/2023,XYZ Ltd,Office Supplies,"$2,669.00",Cash
+01/13/2023,ABC Company,Travel,"$2,261.00",Credit Card
+01/07/2023,X.Y.Z. Ltd,Office Supplies,"$1,214.00",Credit Card
+03/20/2023,X.Y.Z. Ltd,Travel,"$2,777.00",Cash
+03/27/2023,ABC Co.,Travel,"$1,482.00",Cash
+01/01/2023,ABC Company,Office Supplies,"$1,964.00",Credit Card
+01/04/2023,abc co,Meals,"$4,474.00",Cash
+03/15/2023,ABC Co.,Meals,"$4,661.00",Bank Transfer
+01/24/2023,XYZ Ltd,Travel,$941.00,Bank Transfer
+03/09/2023,abc co,Meals,"$4,315.00",Bank Transfer
+01/28/2023,"Foo Bar, Inc.",Travel,"$4,192.00",Credit Card
+01/12/2023,abc co,Travel,"$1,162.00",Bank Transfer
+01/20/2023,"Foo Bar, Inc.",Meals,"$1,218.00",Credit Card
+03/19/2023,"Foo Bar, Inc.",Travel,$780.00,Bank Transfer
+01/14/2023,ABC Co.,Travel,"$3,101.00",Credit Card
+01/27/2023,abc co,Office Supplies,"$2,381.00",Credit Card
+03/03/2023,"Foo Bar, Inc.",Meals,"$4,855.00",Credit Card
+03/28/2023,Foo-Bar Inc,Meals,"$4,949.00",Credit Card
+01/17/2023,ABC Co.,Meals,"$1,144.00",Cash
+03/22/2023,X.Y.Z. Ltd,Office Supplies,"$1,479.00",Cash
+02/02/2023,X.Y.Z. Ltd,Office Supplies,$479.00,Cash
+03/13/2023,ABC Co.,Meals,"$2,332.00",Credit Card
+02/24/2023,XYZ Ltd,Travel,"$3,431.00",Cash
+01/02/2023,"Foo Bar, Inc.",Office Supplies,$34.00,Bank Transfer
+01/04/2023,abc co,Travel,"$4,397.00",Bank Transfer
+03/03/2023,Foo-Bar Inc,Office Supplies,"$1,172.00",Bank Transfer
+02/07/2023,Foo-Bar Inc,,$780.00,Cash
+01/24/2023,Foo-Bar Inc,Office Supplies,"$3,007.00",Cash
+03/09/2023,XYZ Ltd,Travel,"$2,131.00",Cash
+01/24/2023,XYZ Ltd,Meals,"$1,805.00",Cash
+01/11/2023,XYZ Ltd,Travel,"$1,457.00",Cash
+03/27/2023,ABC Company,Travel,"$1,964.00",Credit Card
+02/03/2023,Foo-Bar Inc,Travel,"$1,802.00",Bank Transfer
+03/11/2023,"Foo Bar, Inc.",Meals,$146.00,Cash
+01/02/2023,ABC Company,Travel,"$3,429.00",Credit Card
+02/06/2023,ABC Co.,,$518.00,Bank Transfer
+01/31/2023,Foo-Bar Inc,Office Supplies,$156.00,Cash
+03/26/2023,Foo-Bar Inc,Travel,$918.00,Credit Card
+03/08/2023,XYZ Ltd,Office Supplies,"$3,633.00",Bank Transfer
+01/31/2023,ABC Company,Meals,"$4,380.00",Credit Card
+02/13/2023,XYZ Ltd,Travel,"$1,439.00",Cash
+03/31/2023,abc co,Meals,$339.00,Credit Card
+03/23/2023,ABC Company,Meals,"$1,050.00",Bank Transfer
+02/06/2023,"Foo Bar, Inc.",Travel,"$1,229.00",Credit Card
+02/26/2023,XYZ Ltd,Meals,"$2,808.00",Credit Card
+01/20/2023,ABC Co.,Travel,"$3,095.00",Bank Transfer
+03/23/2023,ABC Co.,,"$2,773.00",Credit Card
+02/06/2023,ABC Company,Travel,"$3,864.00",Bank Transfer
+01/29/2023,X.Y.Z. Ltd,,$605.00,Credit Card
+03/03/2023,Foo-Bar Inc,Office Supplies,"$3,218.00",Cash
+01/12/2023,X.Y.Z. Ltd,Office Supplies,"$2,999.00",Bank Transfer
+03/16/2023,X.Y.Z. Ltd,Travel,"$3,301.00",Cash
+01/19/2023,Foo-Bar Inc,Travel,$447.00,Bank Transfer
+02/13/2023,X.Y.Z. Ltd,Travel,$951.00,Cash
+03/12/2023,abc co,Travel,"$2,117.00",Credit Card
+01/27/2023,X.Y.Z. Ltd,Travel,$955.00,Bank Transfer
+03/15/2023,X.Y.Z. Ltd,Travel,"$1,872.00",Bank Transfer
+02/09/2023,ABC Co.,Office Supplies,$913.00,Credit Card
+01/23/2023,ABC Co.,Travel,"$3,821.00",Bank Transfer
+03/23/2023,X.Y.Z. Ltd,Meals,"$4,506.00",Credit Card
+01/24/2023,ABC Co.,Office Supplies,"$2,363.00",Bank Transfer
+02/24/2023,ABC Company,Office Supplies,"$2,415.00",Cash
+01/24/2023,XYZ Ltd,,"$3,903.00",Bank Transfer
+01/08/2023,ABC Company,Travel,"$3,978.00",Credit Card
+02/06/2023,ABC Company,Travel,"$3,341.00",Bank Transfer
+02/12/2023,ABC Company,Travel,"$3,034.00",Credit Card
+02/17/2023,abc co,Office Supplies,$73.00,Credit Card
+03/12/2023,ABC Company,Office Supplies,"$2,681.00",Credit Card
+01/19/2023,ABC Company,Travel,"$1,973.00",Credit Card
+02/28/2023,ABC Company,Travel,"$4,913.00",Credit Card
+02/28/2023,X.Y.Z. Ltd,Meals,"$4,109.00",Bank Transfer
+02/10/2023,X.Y.Z. Ltd,Travel,"$4,132.00",Credit Card
+02/21/2023,ABC Company,Meals,"$1,681.00",Cash
+03/14/2023,"Foo Bar, Inc.",Meals,"$1,741.00",Cash
+03/09/2023,"Foo Bar, Inc.",Office Supplies,$605.00,Credit Card
+01/06/2023,XYZ Ltd,Travel,"$2,013.00",Cash
+01/09/2023,XYZ Ltd,Travel,$701.00,Bank Transfer
+03/31/2023,abc co,Meals,"$2,693.00",Credit Card
+03/25/2023,abc co,Meals,"$3,197.00",Bank Transfer
+02/14/2023,XYZ Ltd,Office Supplies,"$2,231.00",Cash
+01/05/2023,ABC Company,Travel,"$2,477.00",Bank Transfer
+01/21/2023,Foo-Bar Inc,Meals,$385.00,Credit Card
+03/04/2023,X.Y.Z. Ltd,Meals,"$1,448.00",Cash
+03/29/2023,abc co,Meals,"$3,300.00",Bank Transfer
+01/23/2023,X.Y.Z. Ltd,Office Supplies,"$3,684.00",Bank Transfer
+02/16/2023,ABC Co.,Travel,"$4,746.00",Bank Transfer
+03/17/2023,Foo-Bar Inc,,"$2,997.00",Bank Transfer
+01/08/2023,X.Y.Z. Ltd,Office Supplies,"$2,918.00",Bank Transfer

@@ -1,0 +1,101 @@
+Date,Vendor,Category,Amount,Payment,Duplicate
+2/14/2023,Foo Bar Inc,Office Supplies,4869,Cash,FALSE
+3/25/2023,Foo Bar Inc,Meals,3478,Bank Transfer,FALSE
+3/7/2023,Foo Bar Inc,Office Supplies,2232,Credit Card,FALSE
+3/23/2023,Foo Bar Inc,Office Supplies,2173,Credit Card,FALSE
+3/11/2023,Foo Bar Inc,Travel,2506,Bank Transfer,FALSE
+3/30/2023,ABC Company,Meals,669,Bank Transfer,FALSE
+2/9/2023,ABC Company,Meals,2755,Credit Card,FALSE
+2/1/2023,ABC Company,Meals,2733,Bank Transfer,FALSE
+3/17/2023,ABC Company,Meals,812,Credit Card,FALSE
+1/1/2023,XYZ Ltd,Office Supplies,3632,Credit Card,FALSE
+1/18/2023,XYZ Ltd,Office Supplies,4994,Cash,FALSE
+3/7/2023,ABC Company,Uncategorized,3952,Bank Transfer,FALSE
+3/24/2023,XYZ Ltd,Office Supplies,2669,Cash,FALSE
+1/13/2023,ABC Company,Travel,2261,Credit Card,FALSE
+1/7/2023,XYZ Ltd,Office Supplies,1214,Credit Card,FALSE
+3/20/2023,XYZ Ltd,Travel,2777,Cash,FALSE
+3/27/2023,ABC Company,Travel,1482,Cash,FALSE
+1/1/2023,ABC Company,Office Supplies,1964,Credit Card,FALSE
+1/4/2023,ABC Company,Meals,4474,Cash,FALSE
+3/15/2023,ABC Company,Meals,4661,Bank Transfer,FALSE
+1/24/2023,XYZ Ltd,Travel,941,Bank Transfer,FALSE
+3/9/2023,ABC Company,Meals,4315,Bank Transfer,FALSE
+1/28/2023,Foo Bar Inc,Travel,4192,Credit Card,FALSE
+1/12/2023,ABC Company,Travel,1162,Bank Transfer,FALSE
+1/20/2023,Foo Bar Inc,Meals,1218,Credit Card,FALSE
+3/19/2023,Foo Bar Inc,Travel,780,Bank Transfer,FALSE
+1/14/2023,ABC Company,Travel,3101,Credit Card,FALSE
+1/27/2023,ABC Company,Office Supplies,2381,Credit Card,FALSE
+3/3/2023,Foo Bar Inc,Meals,4855,Credit Card,FALSE
+3/28/2023,Foo Bar Inc,Meals,4949,Credit Card,FALSE
+1/17/2023,ABC Company,Meals,1144,Cash,FALSE
+3/22/2023,XYZ Ltd,Office Supplies,1479,Cash,FALSE
+2/2/2023,XYZ Ltd,Office Supplies,479,Cash,FALSE
+3/13/2023,ABC Company,Meals,2332,Credit Card,FALSE
+2/24/2023,XYZ Ltd,Travel,3431,Cash,FALSE
+1/2/2023,Foo Bar Inc,Office Supplies,34,Bank Transfer,FALSE
+1/4/2023,ABC Company,Travel,4397,Bank Transfer,FALSE
+3/3/2023,Foo Bar Inc,Office Supplies,1172,Bank Transfer,FALSE
+2/7/2023,Foo Bar Inc,Uncategorized,780,Cash,FALSE
+1/24/2023,Foo Bar Inc,Office Supplies,3007,Cash,FALSE
+3/9/2023,XYZ Ltd,Travel,2131,Cash,FALSE
+1/24/2023,XYZ Ltd,Meals,1805,Cash,FALSE
+1/11/2023,XYZ Ltd,Travel,1457,Cash,FALSE
+3/27/2023,ABC Company,Travel,1964,Credit Card,FALSE
+2/3/2023,Foo Bar Inc,Travel,1802,Bank Transfer,FALSE
+3/11/2023,Foo Bar Inc,Meals,146,Cash,FALSE
+1/2/2023,ABC Company,Travel,3429,Credit Card,FALSE
+2/6/2023,ABC Company,Uncategorized,518,Bank Transfer,FALSE
+1/31/2023,Foo Bar Inc,Office Supplies,156,Cash,FALSE
+3/26/2023,Foo Bar Inc,Travel,918,Credit Card,FALSE
+3/8/2023,XYZ Ltd,Office Supplies,3633,Bank Transfer,FALSE
+1/31/2023,ABC Company,Meals,4380,Credit Card,FALSE
+2/13/2023,XYZ Ltd,Travel,1439,Cash,FALSE
+3/31/2023,ABC Company,Meals,339,Credit Card,FALSE
+3/23/2023,ABC Company,Meals,1050,Bank Transfer,FALSE
+2/6/2023,Foo Bar Inc,Travel,1229,Credit Card,FALSE
+2/26/2023,XYZ Ltd,Meals,2808,Credit Card,FALSE
+1/20/2023,ABC Company,Travel,3095,Bank Transfer,FALSE
+3/23/2023,ABC Company,Uncategorized,2773,Credit Card,FALSE
+2/6/2023,ABC Company,Travel,3864,Bank Transfer,FALSE
+1/29/2023,XYZ Ltd,Uncategorized,605,Credit Card,FALSE
+3/3/2023,Foo Bar Inc,Office Supplies,3218,Cash,FALSE
+1/12/2023,XYZ Ltd,Office Supplies,2999,Bank Transfer,FALSE
+3/16/2023,XYZ Ltd,Travel,3301,Cash,FALSE
+1/19/2023,Foo Bar Inc,Travel,447,Bank Transfer,FALSE
+2/13/2023,XYZ Ltd,Travel,951,Cash,FALSE
+3/12/2023,ABC Company,Travel,2117,Credit Card,FALSE
+1/27/2023,XYZ Ltd,Travel,955,Bank Transfer,FALSE
+3/15/2023,XYZ Ltd,Travel,1872,Bank Transfer,FALSE
+2/9/2023,ABC Company,Office Supplies,913,Credit Card,FALSE
+1/23/2023,ABC Company,Travel,3821,Bank Transfer,FALSE
+3/23/2023,XYZ Ltd,Meals,4506,Credit Card,FALSE
+1/24/2023,ABC Company,Office Supplies,2363,Bank Transfer,FALSE
+2/24/2023,ABC Company,Office Supplies,2415,Cash,FALSE
+1/24/2023,XYZ Ltd,Uncategorized,3903,Bank Transfer,FALSE
+1/8/2023,ABC Company,Travel,3978,Credit Card,FALSE
+2/6/2023,ABC Company,Travel,3341,Bank Transfer,FALSE
+2/12/2023,ABC Company,Travel,3034,Credit Card,FALSE
+2/17/2023,ABC Company,Office Supplies,73,Credit Card,FALSE
+3/12/2023,ABC Company,Office Supplies,2681,Credit Card,FALSE
+1/19/2023,ABC Company,Travel,1973,Credit Card,FALSE
+2/28/2023,ABC Company,Travel,4913,Credit Card,FALSE
+2/28/2023,XYZ Ltd,Meals,4109,Bank Transfer,FALSE
+2/10/2023,XYZ Ltd,Travel,4132,Credit Card,FALSE
+2/21/2023,ABC Company,Meals,1681,Cash,FALSE
+3/14/2023,Foo Bar Inc,Meals,1741,Cash,FALSE
+3/9/2023,Foo Bar Inc,Office Supplies,605,Credit Card,FALSE
+1/6/2023,XYZ Ltd,Travel,2013,Cash,FALSE
+1/9/2023,XYZ Ltd,Travel,701,Bank Transfer,FALSE
+3/31/2023,ABC Company,Meals,2693,Credit Card,FALSE
+3/25/2023,ABC Company,Meals,3197,Bank Transfer,FALSE
+2/14/2023,XYZ Ltd,Office Supplies,2231,Cash,FALSE
+1/5/2023,ABC Company,Travel,2477,Bank Transfer,FALSE
+1/21/2023,Foo Bar Inc,Meals,385,Credit Card,FALSE
+3/4/2023,XYZ Ltd,Meals,1448,Cash,FALSE
+3/29/2023,ABC Company,Meals,3300,Bank Transfer,FALSE
+1/23/2023,XYZ Ltd,Office Supplies,3684,Bank Transfer,FALSE
+2/16/2023,ABC Company,Travel,4746,Bank Transfer,FALSE
+3/17/2023,Foo Bar Inc,Uncategorized,2997,Bank Transfer,FALSE
+1/8/2023,XYZ Ltd,Office Supplies,2918,Bank Transfer,FALSE
